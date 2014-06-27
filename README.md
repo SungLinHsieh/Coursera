@@ -1,4 +1,4 @@
-Courser
+Coursera
 =======
 
-code in courser
+code in coursera
